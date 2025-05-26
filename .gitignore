@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Custom ignores for my Telegram bot project
+.env
+*.db
+*.db-journal
+nohup.out

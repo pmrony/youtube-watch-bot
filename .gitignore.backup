@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+youtube_bot.db
+youtube_bot.db-journal
+nohup.out
+.env 
